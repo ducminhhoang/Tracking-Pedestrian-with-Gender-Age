@@ -1,5 +1,5 @@
 path: ../Dataset/Tracking
-train: train/train0/images
+train: train/images
 val: val/images
 
 names:
