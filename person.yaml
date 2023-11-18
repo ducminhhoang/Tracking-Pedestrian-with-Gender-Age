@@ -1,0 +1,6 @@
+path: ../Dataset/Tracking
+train: train/train0/images
+val: val/images
+
+names:
+  0: person
